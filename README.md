@@ -1,5 +1,6 @@
 # uDub Search Project
 
+# THIS IS A MODIFIED fork of a private repo, not all features will fully function at the moment
 ## Overview
 
 uDub Search is a project aimed at creating a comprehensive and efficient search system tailored for the University of Washington community. It leverages a combination of PHP for server-side processing and Python for running the core search logic.
